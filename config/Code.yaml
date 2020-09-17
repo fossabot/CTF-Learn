@@ -1,0 +1,9 @@
+StatusCode:
+  Success: 1000
+  LoginUserError: 1001  #用户登录错误
+  UserExisted: 1002     #用户已存在
+  NoUserExisted: 1003    #用户不存在
+  NilToken: 1004        #token错误
+  NoRole: 1005          #权限错误
+  DeleteUserError: 1006 #删除用户失败
+  PasswordError: 1007 #登录密码错误
